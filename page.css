@@ -7,7 +7,7 @@ footer {
   }
 
 .home-container {
-    background-image: url("./elements/bg2.png");
+    background-image: url("bg2.png");
     background-size: cover;
     background-position: center;
     height: 85vh;
@@ -117,7 +117,7 @@ nav {
 .contact-container {
 
     height: 96vh;
-    background-image: url("./elements/contactus9.png");
+    background-image: url("contactus9.png");
     background-size: cover;
     background-position: center;
 }
